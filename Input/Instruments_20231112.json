@@ -1,0 +1,5 @@
+{"NickName":"Instrument1","MarketValue":800000,"Type":"Stock"},
+{"NickName":"Instrument2","MarketValue":1500000,"Type":"Bond"},
+{"NickName":"Instrument3","MarketValue":6000000,"Type":"Derivative"},
+{"NickName":"Instrument4","MarketValue":300000,"Type":"Stock"}
+
